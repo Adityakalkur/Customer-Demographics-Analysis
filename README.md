@@ -54,7 +54,7 @@ File Used: `KPMG_Customer_Demography.csv`
 ## 📊 Visuals  
 
 ### Power BI Dashboard Preview  
-![Dashboard Preview](Visuals\Dashboard_view.png)
+![Dashboard Preview](Visuals/Dashboard_view.png)
 
 ---
 
